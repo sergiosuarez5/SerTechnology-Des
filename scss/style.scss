@@ -14,6 +14,9 @@ body{
 
 header{
     background-color: #212529;
+    .logo-tipe{
+      width: 200px;
+    }
 }
 
 .commerse{
@@ -22,8 +25,9 @@ header{
 }
 
 main{
-    background-color: rgb(227, 227, 227);
-    padding: 100px;
+    background-image: url(../img/back3.jpg);
+    background-repeat: no-repeat;
+    padding: 20px;
     .parrafo{
         text-align: center;
         padding: 50px;
@@ -104,7 +108,6 @@ main{
         text-align: center;
     }
 }
-
 
 footer {
     text-align: center;
